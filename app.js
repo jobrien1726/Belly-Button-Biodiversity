@@ -63,7 +63,9 @@ function buildCharts(sample) {
         }];
 
         var barLayout = {
-            title: "Top 10 Bacteria Cultures Found"
+            title: "Top 10 Bacteria Cultures Found",
+            xaxis: {title: "Sample Value"},
+            yaxis: {title: "OTU ID"}
         }
 
         Plotly.newPlot("bar", barData, barLayout);
@@ -84,9 +86,8 @@ function buildCharts(sample) {
         var bubbleLayout = {
             title: "Bacteria Cultures Per Sample",
             hovermode: "closest",
-            xaxis: {
-                title: "OTU ID"
-            }
+            xaxis: {title: "OTU ID"},
+            yaxis: {title: "Sample Value"} 
         };
 
         Plotly.newPlot("bubble", bubbleData, bubbleLayout);
