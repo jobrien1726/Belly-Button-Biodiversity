@@ -19,7 +19,11 @@ The goal of this project was to use JavaScript and Plotly to create an interacti
 
 ### Dropdown Menu
 
-An interactive dropdown menu which displays a complete list of test subject ID numbers and allows the user to choose which test subject data to view. 
+An interactive dropdown menu which displays a complete list of test subject ID numbers and allows the user to choose which test subject data to view. All of the following plots update each time a new text subject is chosen. 
+
+### Demographic Info
+
+
 
 ### Horizontal Bar Chart
 
