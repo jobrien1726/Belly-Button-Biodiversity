@@ -12,7 +12,6 @@ This project aims to build an interactive dashboard based on the research by D.F
 
 - JavaScript
 - HTML
-- CSS
 - Bootstrap
 - D3.js
 - Plotly.js
