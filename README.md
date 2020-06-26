@@ -40,9 +40,7 @@ A horizontal bar chart with a dropdown menu to display the top 10 OTUs found in 
 Features:
 
 - Used sample_values as the values for the bar chart.
-
 - Used otu_ids as the labels for the bar chart.
-
 - Used otu_labels as the hovertext for the chart.
 
 ### Bubble Chart
@@ -52,13 +50,9 @@ A bubble chart that displays each sample.
 Features:
 
 - Used otu_ids for the x values.
-
 - Used sample_values for the y values.
-
 - Use sample_values for the marker size.
-
 - Use otu_ids for the marker colors.
-
 - Use otu_labels for the text values.
 
 
