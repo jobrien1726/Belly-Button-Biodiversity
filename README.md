@@ -30,8 +30,8 @@ A panel of the sample metadata, i.e. an individual's demographic information, is
 - gender
 - age
 - location
-- bbtype
-- wfreq
+- belly button type ("Innie" vs. "Outtie")
+- washing frequency (scrubs per week)
 
 ### Horizontal Bar Chart
 
