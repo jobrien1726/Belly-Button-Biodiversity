@@ -29,7 +29,7 @@ Features:
 
 - Used otu_labels as the hovertext for the chart.
 
-### 
+### Bubble Chart
 
 
 
