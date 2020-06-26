@@ -14,3 +14,15 @@ The goal of this project was to use JavaScript and Plotly to create an interacti
 - Plotly.js
 
 ![](images/dashboard.png)
+
+## Plotly Charts
+
+### Horizontal Bar Chart
+
+A horizontal bar chart with a dropdown menu to display the top 10 OTUs found in each individual.
+
+### 
+
+
+
+
