@@ -31,6 +31,8 @@ Features:
 
 ### Bubble Chart
 
+A bubble chart that displays each sample.
+
 
 
 
