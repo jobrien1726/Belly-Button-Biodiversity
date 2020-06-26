@@ -23,7 +23,15 @@ An interactive dropdown menu which displays a complete list of test subject ID n
 
 ### Demographic Info
 
+A panel of the sample metadata, i.e. an individual's demographic information, is displayed for each test subject. It includes the folling information:
 
+- ID number
+- ethnicity
+- gender
+- age
+- location
+- bbtype
+- wfreq
 
 ### Horizontal Bar Chart
 
