@@ -15,7 +15,11 @@ The goal of this project was to use JavaScript and Plotly to create an interacti
 
 ![](images/dashboard.png)
 
-## Plotly Charts
+## Dashboard
+
+### Dropdown Menu
+
+An interactive dropdown menu which displays a complete list of test subject ID numbers and allows the user to choose which test subject data to view. 
 
 ### Horizontal Bar Chart
 
